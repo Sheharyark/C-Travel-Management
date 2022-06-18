@@ -1,0 +1,7 @@
+
+Customer ID : 214
+Name : Khsan
+Age : 54
+Mobile Number : 124
+Address : Indore
+Gender : male
